@@ -1,0 +1,3 @@
+which number is greater in a b c 
+ 30 is greater than 10 and 20
+snr1.sh: line 12: Date: command not found
